@@ -9,7 +9,7 @@
 	<key>firstLineMatch</key>
 	<string>^\s*mdl\s+[0-9]*[.][0-9]*;.*</string>
 	<key>name</key>
-	<string>NVIDIA Material Definition Language (MDL)</string>
+	<string>Material Definition Language (MDL) by NVIDIA</string>
 	<key>patterns</key>
 	<array>
 		<dict>
