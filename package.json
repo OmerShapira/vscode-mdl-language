@@ -1,0 +1,25 @@
+{
+    "name": "mdl",
+    "displayName": "vscode-mdl-language",
+    "description": "Material Definition Language by NVIDIA",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "mdl",
+            "aliases": ["Material Definition Language (MDL)", "mdl"],
+            "extensions": [".mdl"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "mdl",
+            "scopeName": "source.mdl",
+            "path": "./syntaxes/mdl.tmLanguage"
+        }]
+    }
+}
