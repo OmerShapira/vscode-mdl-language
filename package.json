@@ -1,7 +1,9 @@
 {
     "name": "mdl",
+    "publisher": "OmerShapira",
     "displayName": "vscode-mdl-language",
     "description": "Material Definition Language by NVIDIA",
+    "repository": "https://github.com/OmerShapira/vscode-mdl-language",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.49.0"
